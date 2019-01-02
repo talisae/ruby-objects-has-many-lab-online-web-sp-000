@@ -1,5 +1,5 @@
 class Song
-  attr_accessor :name, :songs
+  attr_accessor :name
 
 
   def initialize(name)
